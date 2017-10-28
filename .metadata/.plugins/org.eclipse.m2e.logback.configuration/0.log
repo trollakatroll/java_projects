@@ -1,0 +1,1396 @@
+2017-01-21 12:36:13,630 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-01-28 09:35:03,505 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-01-29 10:59:43,886 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-02-03 14:06:23,782 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-02-03 20:27:57,941 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-03 20:48:01,836 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-03 21:02:06,242 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-03 21:10:53,193 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-03 21:14:41,319 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-04 10:42:00,191 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-12 09:40:22,394 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-02-16 18:37:58,709 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-02-16 18:42:30,867 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-17 20:47:27,935 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-02-20 11:06:03,902 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-02-24 20:49:30,101 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-02-25 09:44:11,952 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-25 11:53:51,891 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-26 12:16:42,140 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-03 20:31:14,251 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-04 08:40:54,934 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-03-06 17:25:40,747 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-10 20:47:04,612 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-11 14:31:53,404 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-03-12 08:19:11,162 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-12 10:52:33,332 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-03-13 18:29:01,973 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-14 18:46:14,935 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-15 19:14:20,063 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-19 10:43:41,938 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-19 18:02:20,762 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-03-21 19:48:08,884 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-24 20:29:41,082 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-24 21:09:50,188 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-03-25 09:52:40,617 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-03-26 13:06:29,759 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-31 20:36:22,385 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-03-31 20:36:22,927 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2017-04-07 21:03:11,935 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-07 21:03:13,549 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-04-15 12:05:05,441 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-15 12:05:08,237 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-04-16 17:41:04,674 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-16 17:41:06,063 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-04-17 12:42:25,152 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-17 12:42:27,197 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-04-17 17:46:24,576 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-17 17:46:26,294 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-04-18 18:00:35,467 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-18 18:00:37,225 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-04-21 20:44:36,340 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-21 20:44:38,985 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-04-24 20:54:57,216 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-24 20:54:59,544 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-04-28 20:30:06,750 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-28 20:30:09,514 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-04-30 11:10:09,332 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-30 11:10:10,987 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-04-30 16:09:30,686 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-30 16:09:33,644 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-04 21:46:44,192 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-04 21:46:46,079 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-05 19:31:32,091 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-05 19:31:34,687 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-06 20:26:53,203 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-06 20:26:56,670 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-07 09:26:10,336 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-07 09:26:13,085 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-08 19:37:41,992 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-08 19:37:43,721 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-12 21:04:55,238 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-12 21:05:00,581 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-19 20:36:45,731 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-19 20:36:48,868 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-20 18:01:27,756 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-20 18:01:29,504 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-21 12:12:21,070 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-21 12:12:22,590 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-21 12:56:34,843 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-21 12:56:36,403 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-26 19:29:21,903 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-26 19:29:22,917 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2017-05-29 16:06:55,983 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-29 16:06:56,879 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-29 19:15:00,904 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-29 19:15:02,518 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-29 19:30:04,149 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-29 19:30:05,049 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-29 19:33:15,381 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-29 19:33:16,343 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-29 19:40:53,717 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-29 19:40:56,011 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-29 19:51:16,795 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-29 19:51:18,031 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-29 19:56:04,677 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-29 19:56:07,446 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-29 21:07:30,617 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-29 21:07:32,152 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-05-31 08:52:49,177 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-31 08:52:51,882 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-02 15:18:47,615 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-02 15:18:50,582 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-02 19:37:43,702 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-02 19:37:44,115 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2017-06-03 10:55:36,293 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-03 10:55:40,092 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-03 18:59:15,702 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-03 18:59:18,503 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-04 15:10:15,136 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-04 15:10:16,716 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-09 19:37:10,790 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-09 19:37:12,334 [Worker-3] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-11 12:01:09,190 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-11 12:01:11,322 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-11 15:04:21,762 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-11 15:04:23,552 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-12 16:37:34,458 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-12 16:37:35,764 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-16 19:56:30,167 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-16 19:56:32,609 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-17 20:26:38,729 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-17 20:26:39,807 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-18 09:01:01,506 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-18 09:01:05,526 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2017-06-18 15:06:57,448 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-18 15:06:58,843 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-19 15:58:45,356 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-19 15:58:48,802 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-20 22:06:52,838 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-20 22:06:55,530 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-23 19:36:08,834 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-23 19:36:19,144 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-24 09:52:04,714 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-24 09:52:06,976 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-25 13:19:29,313 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-25 13:19:32,669 [Worker-3] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-30 19:36:43,638 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-30 19:36:44,964 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-04 10:10:52,679 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-04 10:10:58,475 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-07 20:14:05,714 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-07 20:14:11,411 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-08 11:39:39,434 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-08 11:39:41,276 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-14 19:49:12,067 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-14 19:49:14,900 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-21 20:36:55,857 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-21 20:36:58,816 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-21 20:55:09,532 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-21 20:55:11,810 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-22 08:40:05,422 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-22 08:40:09,445 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-23 13:34:09,800 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-23 13:34:13,240 [Worker-3] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-23 17:41:26,832 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-23 17:41:29,471 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-28 19:57:24,764 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-28 19:57:26,745 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-08-13 08:19:56,222 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-13 08:19:57,603 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-08-18 20:07:53,470 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-18 20:07:54,380 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2017-08-20 09:08:49,101 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-20 09:08:49,857 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2017-08-21 08:17:30,003 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-21 08:17:33,932 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-08-25 20:01:10,213 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-25 20:01:13,227 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-08-26 09:01:28,353 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-26 09:01:31,071 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-08-27 15:07:56,672 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-27 15:08:00,387 [Worker-3] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-08-27 18:53:11,075 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-27 18:53:12,310 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-08-28 10:33:16,826 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-28 10:33:18,454 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-08-28 17:52:51,365 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-28 17:52:53,848 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-08-28 20:35:44,488 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-28 20:35:45,793 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-09-01 14:38:32,934 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-01 14:38:35,440 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-09-03 09:04:10,200 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-03 09:04:13,244 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-09-08 20:52:41,469 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-08 20:52:45,933 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-09-15 21:14:10,982 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-15 21:14:15,093 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-09-26 17:16:42,364 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-26 17:16:45,774 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-09-29 20:31:22,126 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-29 20:31:27,017 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-09-30 09:11:47,574 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-30 09:11:48,696 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-09-30 09:12:41,252 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-30 09:12:42,528 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-09-30 09:19:51,811 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-30 09:19:52,764 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2017-10-01 13:10:51,204 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-01 13:10:53,435 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-10-13 19:58:36,592 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-13 19:58:37,895 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2017-10-18 08:42:36,547 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-18 08:42:38,376 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-10-20 16:26:28,745 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-20 16:26:31,547 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-10-20 19:41:51,258 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-20 19:41:55,599 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-10-20 20:41:55,542 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-20 20:41:59,046 [Worker-2] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-10-20 20:51:34,960 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-20 20:51:37,873 [Worker-0] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-10-20 21:19:11,107 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-20 21:19:13,257 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-10-27 19:34:57,874 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-27 19:35:01,040 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-10-27 19:49:23,091 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-27 19:49:26,391 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-10-28 09:29:54,475 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-28 09:29:55,469 [Worker-1] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot write Gradle version information cache file.
+java.io.FileNotFoundException: C:\Users\Jake\.tooling\gradle\versions.json (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.open(Unknown Source) ~[na:1.8.0_121]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[na:1.8.0_121]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:245) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.Files$FileByteSink.openStream(Files.java:233) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.ByteSink$AsCharSink.openStream(ByteSink.java:158) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.google.common.io.CharSource.copyTo(CharSource.java:138) ~[com.google.guava_15.0.0.v201403281430.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.storeCacheVersionsFile(PublishedGradleVersions.java:194) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:160) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:143) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:127) [com.gradleware.tooling.utils_0.16.0.v20160831165132.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:87) [org.eclipse.buildship.core_1.0.21.v20161010-1640.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]

@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Trident {
+	public static void main(String args[]){
+		Scanner sc = new Scanner(System.in);
+		int sticks = sc.nextInt();
+		int spaces = sc.nextInt();
+		int bottom = sc.nextInt();
+		int base = spaces*spaces;
+		for(int i = 0; i<sticks; i++){
+			for(int k = 0; k<spaces; k++){
+				System.out.print("*");
+				for(int j = 0; j<spaces; j++){
+					System.out.println(" ");
+				}
+			}
+			System.out.println();
+		}
+	}
+}

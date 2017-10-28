@@ -1,0 +1,9 @@
+
+public class ChangeChars {
+	public static void change(int x, int y, char c){
+		
+	}
+	public static void reverse(int x){
+		int len = chArray[x].length();
+	}
+}

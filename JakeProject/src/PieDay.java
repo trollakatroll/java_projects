@@ -1,0 +1,49 @@
+import java.util.*;
+public class PieDay {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int slice = 9;
+		int people = 4;
+		int counter = 0;
+		List<Integer> myList = new ArrayList<Integer>();
+		boolean toggle = true;
+		for(int i = 0; i < people; i++){
+			if(i == people-1){
+				int a = slice - (people-1);
+				counter++;
+				myList.add(a);
+			}else{
+				myList.add(1);
+			}
+		}
+		int pos1 = myList.get(myList.size()-1);
+		int pos2 = myList.get(myList.size()-2);
+		while(toggle){
+			if(pos1 == pos2 || pos2 == pos1-1){
+				toggle = false;
+			}else{
+				pos1 = pos1 - 1;
+				pos2 = pos2 + 1;
+				counter++;
+			}
+		}
+		int pos3 = myList.get(myList.size()-3);
+		int pos4 = myList.get(myList.size()-4);
+		while(!toggle){
+			if(pos3 != pos2-1 && pos3 != pos2){
+				counter++;
+				pos2 = pos2-1;
+				pos3 = pos3+1;
+			}else if(pos4 != pos1 && pos4 != pos1-1){
+				counter++;
+				pos4 = pos4 + 1;
+				pos1 = pos1 - 1;
+			}else{
+				toggle = true;
+			}
+		}
+		System.out.println(counter);
+	}
+
+}

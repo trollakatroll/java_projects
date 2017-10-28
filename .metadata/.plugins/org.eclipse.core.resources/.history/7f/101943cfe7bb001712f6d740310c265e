@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class DressingUp {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int input = sc.nextInt();
+		int num = input*2;
+		int num2 = (input/2)+1;
+		for(int i = 1; i<num2; i=i+2){
+			for(int j = 0; j<i; j++){
+				System.out.print("*");
+			}
+			for(int j = 0; j<num-(i*2); j++){
+				System.out.print(" ");
+			}
+			for(int j = 0; j<i; j++){
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+	}
+
+}

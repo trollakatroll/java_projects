@@ -1,0 +1,23 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.util.Random;
+
+public class RobloxMoneyEarner {
+
+	public static void main(String[] args) throws AWTException {
+		Robot r = new Robot();
+		Random ran = new Random();
+		for(int i = 0; i<10; i++){
+			int x = ran.nextInt(5) + 1;
+			System.out.println(x);
+		}
+/*		
+		
+		if(){
+			
+		}
+		r.keyPress(KeyEvent.VK_ENTER);
+		r.keyRelease(KeyEvent.VK_ENTER);*/
+	}
+
+}

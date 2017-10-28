@@ -1,0 +1,24 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.util.Random;
+
+
+public class RobloxMoneyEarner {
+	public volatile static String command;
+	public static void main(String[] args) throws AWTException {
+		Robot robot = new Robot();
+		Random ran = new Random();
+		String a = "";
+		robot.keyPress(KeyEvent.VK_W);
+		robot.keyPress(KeyEvent.VK_D);		
+		try{
+		while(true){
+			Thread.sleep(1000);
+			//System.out.println("HAI. IMMA SPAM U.");
+		}
+		}catch(Exception e){
+			System.out.println("ERROR=   "+e.getMessage());
+		}
+	}
+
+}

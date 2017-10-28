@@ -1,0 +1,62 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.util.Random;
+
+import org.jnativehook.GlobalScreen;
+import org.jnativehook.mouse.NativeMouseEvent;
+import org.jnativehook.mouse.NativeMouseInputListener;
+
+
+public class RobloxMoneyEarner implements NativeMouseInputListener {
+	public volatile static String command;
+	public static void main(String[] args) throws AWTException {
+		Robot robot = new Robot();
+		Random ran = new Random();
+		String a = "";		
+		
+		try{
+			GlobalScreen.registerNativeHook();
+			// Construct the example object.
+			RobloxMoneyEarner example = new RobloxMoneyEarner();
+
+			// Add the appropriate listeners.
+			GlobalScreen.addNativeMouseListener(example);
+			GlobalScreen.addNativeMouseMotionListener(example);
+/*		while(true){
+			//robot.keyPress(KeyEvent.VK_W);
+			//robot.keyPress(KeyEvent.VK_D);
+			Thread.sleep(500);
+			//System.out.println("HAI. IMMA SPAM U.");
+		}*/
+		}catch(Exception e){
+			System.out.println("ERROR=   "+e.getMessage());
+		}
+	}
+	@Override
+	public void nativeMouseClicked(NativeMouseEvent arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void nativeMousePressed(NativeMouseEvent arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void nativeMouseReleased(NativeMouseEvent arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void nativeMouseDragged(NativeMouseEvent arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void nativeMouseMoved(NativeMouseEvent arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+}

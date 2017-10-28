@@ -1,0 +1,23 @@
+import java.util.*;
+public class PieDay {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int slice = 8;
+		int people = 4;
+		int counter = 0;
+		int[] arr = new int[people];
+		boolean toggle = true;
+		for(int i = 0; i < people; i++){
+			if(i == people-1){
+				int a = slice - (people-1);
+				counter++;
+				arr[i] = a;
+			}else{
+				arr[i] = 1;
+			}
+		}
+		
+	}
+
+}

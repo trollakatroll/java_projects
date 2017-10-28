@@ -1,0 +1,31 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.util.Random;
+
+
+public class RobloxMoneyEarner {
+	public volatile static String command;
+	public static void main(String[] args) throws AWTException {
+		Robot robot = new Robot();
+		Random ran = new Random();
+		try{
+		while(true){
+			robot.keyPress(KeyEvent.KEY_PRESSED);
+			Thread.sleep(10000);
+		}
+		}catch(Exception e){
+			System.out.println("ERROR="+e.getMessage());
+		}
+		
+		
+/*		Thread.sleep(100000);
+		robot.keyPress(KeyEvent.KEY_RELEASED);
+		while(Keyboard.next()){
+	         if(Keyboard.getEventKey() == Keyboard.KEY_W){
+	            if(Keyboard.isKeyDown(Keyboard.KEY_W)){
+	               setMoving(true,0);
+	               }
+	         }*/
+	}
+
+}
