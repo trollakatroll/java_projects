@@ -1,7 +1,7 @@
 
 abstract class AbstractClass {
 	int workHourEachDay;
-	int testGig;
+
 	public AbstractClass(int workHourEachDay ){
 		this.workHourEachDay = workHourEachDay;
 	}
