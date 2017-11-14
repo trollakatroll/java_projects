@@ -1,12 +1,14 @@
 
 abstract class AbstractClass {
 	int workHourEachDay;
+	int testGig;
 	public AbstractClass(int workHourEachDay ){
 		this.workHourEachDay = workHourEachDay;
 	}
 	public abstract double monthlyPay();
 	public int getworkHourEachDay(){
 		return workHourEachDay;
+		
 	}
 }
 class AnnuallySalaryWorker extends AbstractClass{
