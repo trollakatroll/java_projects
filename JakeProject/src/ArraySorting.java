@@ -6,6 +6,7 @@ public class ArraySorting {
 		int n2 = list2.length;
 		int[] list3 = new int[n1+n2];
 		int x1 = 0;
+		
 		int x2 = 0;
 		int x3 = 0;
 		while(x1<n1 && x2<n2){

@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class AmeriCandian {
 	public static void main(String args[]){
+		
 		Scanner sc = new Scanner(System.in);
 		while(true){
 			String str = sc.next();
