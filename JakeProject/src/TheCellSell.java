@@ -4,40 +4,36 @@ public class TheCellSell {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int day = sc.nextInt();
-		int evening = sc.nextInt();
-		int weekend = sc.nextInt();
-		double pA = 0;
-		double pB = 0;
-		int ACalc = day - 100;
-		int BCalc = day - 250;
-		if (ACalc > 0) {
-			for (int i = 0; i < ACalc; i++) {
-				pA = pA + 0.25;
-			}
-		} else if (BCalc > 0) {
-			for (int i = 0; i < BCalc; i++) {
-				pB = pB + 0.45;
-			}
+		float day = sc.nextInt();
+		float evening = sc.nextInt();
+		float weekend = sc.nextInt();
+		double planACost = 0;
+		double planBCost = 0;
+		if(day>100){
+			float planADay = day-100;
+			planACost = planACost + (planADay*0.25);
 		}
-		if(evening > 0){
-			for(int i = 0; i < evening; i++){
-				pA = pA + 0.15;
-				pB = pB + 0.35;
-			}
+		if(day>250){
+			float planBDay = day-250;
+			planBCost = planBCost + (planBDay*0.45);
 		}
-		if(weekend > 0){
-			for(int i = 0; i < weekend; i++){
-				pA = pA + 0.2;
-				pB = pB + 0.25;
-			}
-		}
-		System.out.println("Plan A costs " + pA);
-		System.out.println("Plan B costs " + pB);
-		if(pB > pA){
-			System.out.println("Plan B is cheapest");
+		planACost = planACost + (evening*0.15);
+		planBCost = planBCost + (evening*0.35);
+		planACost = planACost + (weekend*0.20);
+		planBCost = planBCost + (weekend*0.25);
+		String A = planACost + "";
+		String B = planBCost + "";
+		String Afront = A.substring(0, 2);
+		planACost = Math.round(planACost);
+		planBCost = Math.round(planBCost);
+		System.out.println("Plan A costs " + planACost);
+		System.out.println("Plan B costs " + planBCost);
+		if(planACost>planBCost){
+			System.out.println("Plan B is cheapest.");
+		}else if(planACost<planBCost){
+			System.out.println("Plan A is cheapest.");
 		}else{
-			System.out.println("Plan A is cheapest");
+			System.out.println("Plan A and B are the same price.");
 		}
 	}
 

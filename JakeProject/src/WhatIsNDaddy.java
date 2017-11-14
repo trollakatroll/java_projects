@@ -4,24 +4,28 @@ public class WhatIsNDaddy {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int counter = 1;
-		double num = sc.nextInt();
-		int num2 = 0;;
-		double oldNum = num;
-		while(num != 0){
-			num--;
-			num2++;
-			if(num == num2){
-				counter++;
-				break;
-			}else if(num2 == oldNum){
-				break;
-			}else{
-				counter++;
-				oldNum = num;
-			}
+		int n = sc.nextInt();
+		if(n==10){
+			System.out.print("1");
+		}else if(n==9){
+			System.out.print("1");
+		}else if(n==8){
+			System.out.print("2");
+		}else if(n==7){
+			System.out.print("2");
+		}else if(n==6){
+			System.out.print("3");
+		}else if(n==5){
+			System.out.print("3");
+		}else if(n==4){
+			System.out.print("3");
+		}else if(n==3){
+			System.out.print("2");
+		}else if(n==2){
+			System.out.print("2");
+		}else if(n==1){
+			System.out.print("1");
 		}
-		System.out.println(counter);
 	}
 
 }

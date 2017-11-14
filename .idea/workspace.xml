@@ -1,7 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06658488-8316-44ec-8767-ebef583163f0" name="Default" comment="" />
+    <list default="true" id="06658488-8316-44ec-8767-ebef583163f0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/34/007b255079bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4b/8091e19379bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/51/60b3e6137abb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/6/5098b2ce78bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/65/a05f9da077bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/66/d011f01979bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/6f/408f981079bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8e/7014944179bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a/d0eb6a5e76bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a7/7022f05479bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ad/7049bdda77bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/cc/40fab1e371bb001717c3d0b1d81d8556" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/12.tree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GameHack/bin/AutoClicker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GameHack/bin/JakesHack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GameHack/bin/JakesHack2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GameHack/bin/MoneyEarner2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GameHack/bin/RobloxMoneyEarner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/AbstractClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Airplane.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/AmeriCandian.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/AnnuallySalaryWorker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/AplusB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/AplusB2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ArrListExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ArrPractice2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ArrPractice3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ArrPractice4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ArrPractice5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ArrPractice6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ArrPractice7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ArraySorting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/AssigningPartners.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/BackToSchool16Harambe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/BigBangSecrets.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/BiggestNumFromKDigits.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Bird.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/BitWisePractise.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Boolean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/CCC02J10123456789.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/COCI06Contest2Number1R2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/CalendarTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Calender.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ChanceOfWinning.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ChangeCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ChangeChars.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ConvertTheTime.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Cube.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/DayOfTheYear.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/DeficientPerfectAbundant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/DifBetweenMinAndMax2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/DividedBy5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/DivisibilityByEleven.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/DontPassMeTheBall.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/DoubleDice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/DressingUp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ExactlyElectrical.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/FavouriteTimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/FederalVotingAge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/FirstLast6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/From1987to2013.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/GlobalWarming.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/GoodTimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/HappyOrSad.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/HiddenPalindrome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/HourlySalaryWorker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/HowManyTimesDoesFibRun.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ISBN.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/IconScaling.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ItsColdHere.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/KewlNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ListMin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/LongestCommonSubsequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/MagicSquares.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ModInverse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Multiply.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/NailedItOrNailEdit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/NextInLine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/NineNineSixSix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/NotAWallOfText.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/NthDayOfTheYear.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/NumberSystem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/OldFishingHole.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/OneMillionInputs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/PalindromeAgain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/PartyInvitation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/PhoneNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/PieDay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Print.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/PrintTrapezoid.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Punchy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/QuadrantSelection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/QuickEstimates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/RANDOM.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Recursion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ReduceArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ReverseTehStrangs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/RockPaperScissors.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/RollTheDice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/RotatingLetters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ShiftySum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Ship.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Signage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/SimpleArrPractice4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/SimpleMean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/SimplePrimeNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/SlotMachine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/SnakesAndLadders.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/SoundsFishy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/SpecialDay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/SpeedFinesAreNotFine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Spiral.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Students.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/TEXQuotes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/TheCellSell.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/TicTacToe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/TimeOnTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/TriangleTimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/Trident.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/TwoDArrayPractice5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/TwoDArrayPractice6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/TwoDimensionArray1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/TwoDimensionArrayExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/UpAndDown.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/VoteCount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/WetlandsOfFlorida.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/WhatIsNDaddy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/WhichAlien.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/WhoIsInTheMiddle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/WordEnds.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/celebrate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/ecdsce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/hurr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/nToThePowerOfK.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/question.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/winOrLose.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JakeProject/bin/work.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestingStuff/bin/Airplane.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestingStuff/bin/Bird.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestingStuff/bin/Print.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestingStuff/bin/test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/games/bin/games/Game1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/games/bin/games/SnakesAndLaddersGamePlayable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/AbstractClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Airplane.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/AmeriCandian.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/AnnuallySalaryWorker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/AplusB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/AplusB2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ArrListExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ArrPractice2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ArrPractice3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ArrPractice4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ArrPractice5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ArrPractice6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ArrPractice7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ArraySorting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/AssigningPartners.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/BackToSchool16Harambe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/BigBangSecrets.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/BiggestNumFromKDigits.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Bird.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/BitWisePractise.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Boolean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/CCC02J10123456789.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/COCI06Contest2Number1R2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/CalendarTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Calender.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ChanceOfWinning.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ChangeCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ChangeChars.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ConvertTheTime.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Cube.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/DayOfTheYear.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/DeficientPerfectAbundant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/DifBetweenMinAndMax2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/DividedBy5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/DivisibilityByEleven.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/DontPassMeTheBall.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/DoubleDice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/DressingUp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ExactlyElectrical.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/FavouriteTimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/FederalVotingAge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/FirstLast6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/From1987to2013.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/GlobalWarming.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/GoodTimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/HappyOrSad.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/HiddenPalindrome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/HourlySalaryWorker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/HowManyTimesDoesFibRun.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ISBN.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/IconScaling.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ItsColdHere.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/KewlNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ListMin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/LongestCommonSubsequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/MagicSquares.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ModInverse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Multiply.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/NailedItOrNailEdit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/NextInLine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/NineNineSixSix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/NotAWallOfText.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/NthDayOfTheYear.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/NumberSystem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/OldFishingHole.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/OneMillionInputs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/PalindromeAgain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/PartyInvitation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/PhoneNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/PieDay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Print.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/PrintTrapezoid.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Punchy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/QuadrantSelection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/QuickEstimates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/RANDOM.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Recursion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ReduceArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ReverseTehStrangs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/RockPaperScissors.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/RollTheDice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/RotatingLetters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ShiftySum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Ship.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Signage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/SimpleArrPractice4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/SimpleMean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/SimplePrimeNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/SlotMachine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/SnakesAndLadders.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/SoundsFishy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/SpecialDay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/SpeedFinesAreNotFine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Spiral.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Students.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/TEXQuotes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/TheCellSell.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/TicTacToe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/TimeOnTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/TriangleTimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/Trident.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/TwoDArrayPractice5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/TwoDArrayPractice6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/TwoDimensionArray1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/TwoDimensionArrayExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/UpAndDown.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/VoteCount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/WetlandsOfFlorida.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/WhatIsNDaddy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/WhichAlien.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/WhoIsInTheMiddle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/WordEnds.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/celebrate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/ecdsce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/hurr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/nToThePowerOfK.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/question.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/winOrLose.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JakeProject/work.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/GameHack/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/GameHack/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/GameHack/org.eclipse.jdt.core/state.dat" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/GameHack/org.eclipse.jdt.core/state.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/JakeProject/.indexes/e4/history.index" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/JakeProject/.indexes/e4/history.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/JakeProject/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/JakeProject/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/JakeProject/org.eclipse.jdt.core/state.dat" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/JakeProject/org.eclipse.jdt.core/state.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/TestingStuff/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/TestingStuff/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/TestingStuff/org.eclipse.jdt.core/state.dat" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/TestingStuff/org.eclipse.jdt.core/state.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/games/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/games/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/games/org.eclipse.jdt.core/state.dat" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/games/org.eclipse.jdt.core/state.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1844817070.index" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1844817070.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1933146221.index" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1933146221.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.log" afterPath="$PROJECT_DIR$/.metadata/.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/version.ini" afterPath="$PROJECT_DIR$/.metadata/version.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.recommenders/caches/identified-project-coordinates.json" afterPath="$PROJECT_DIR$/.recommenders/caches/identified-project-coordinates.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JakeProject/src/TheCellSell.java" afterPath="$PROJECT_DIR$/JakeProject/src/TheCellSell.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JakeProject/src/Trident.java" afterPath="$PROJECT_DIR$/JakeProject/src/Trident.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JakeProject/src/WhatIsNDaddy.java" afterPath="$PROJECT_DIR$/JakeProject/src/WhatIsNDaddy.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,12 +301,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Trident.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JakeProject/src/Trident.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="97">
+              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -45,8 +335,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JakeProject/src/Trident.java" />
         <option value="$PROJECT_DIR$/JakeProject/src/GoodTimes.java" />
+        <option value="$PROJECT_DIR$/JakeProject/src/Trident.java" />
       </list>
     </option>
   </component>
@@ -347,7 +637,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -360,13 +649,14 @@
             <path>
               <item name="JavaProject2" type="b2602c69:ProjectViewProjectNode" />
               <item name="JakeProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -499,43 +789,44 @@
       <option name="presentableId" value="Default" />
       <updated>1509210747283</updated>
       <workItem from="1509210752458" duration="794000" />
+      <workItem from="1509803670589" duration="118000" />
+      <workItem from="1510448902549" duration="110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="794000" />
+    <option name="totallyTimeSpent" value="1022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5025707" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.4974293" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.4974293" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2570694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26349613" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,6 +842,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JakeProject/src/Trident.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JakeProject/src/GoodTimes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -561,8 +860,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JakeProject/src/Trident.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JakeProject/src/GoodTimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JakeProject/src/GoodTimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JakeProject/src/Trident.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding />
         </state>
       </provider>
